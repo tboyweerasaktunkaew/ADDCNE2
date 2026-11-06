@@ -1,0 +1,6 @@
+{
+  "name": "GridOps PEA - ระบบบริหารแผนงานดับไฟศูนย์ควบคุมการจ่ายไฟฟ้า",
+  "description": "ระบบบริหารจัดการแผนงานดับไฟและปฏิบัติการระบบไฟฟ้า ศูนย์ควบคุมการจ่ายไฟฟ้า (Grid Control Center) รองรับ Multi-page Views, ตรวจสอบ Feeder Conflict อัตโนมัติ, พิมพ์เอกสาร A4 และเชื่อมต่อ Google Sheets API",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
